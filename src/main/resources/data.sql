@@ -1,0 +1,15 @@
+INSERT INTO users (username, email, created_at) VALUES ('user1', 'user1@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user2', 'user2@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user3', 'user3@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user4', 'user4@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user5', 'user5@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user6', 'user6@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user7', 'user7@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user8', 'user8@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user9', 'user9@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user10', 'user10@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user11', 'user11@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user12', 'user12@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user13', 'user13@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user14', 'user14@example.com', CURRENT_TIMESTAMP);
+INSERT INTO users (username, email, created_at) VALUES ('user15', 'user15@example.com', CURRENT_TIMESTAMP);
